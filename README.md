@@ -2,4 +2,4 @@
 
 ## First challenge proposed by GoStack. 
 
-The goal is build an API to create a Projects mannager to study HTTP routes, Middlewares and learn aboud Node.js 
+The goal is build an API to create a Projects manager to study HTTP protocols, routes, Middlewares and learn aboud Node.js 
