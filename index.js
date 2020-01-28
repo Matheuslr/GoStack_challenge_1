@@ -12,7 +12,6 @@ server.use((req, res, next) => {
 });
 
 function checkIfIdExists(req, res, next) {
-  console.log(req);
   const { id } = req.params;
 
   const project = projects.find(project => project.id == id);
